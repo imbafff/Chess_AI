@@ -22,6 +22,7 @@ ChessAI использует передовые алгоритмы и техно
 
 Примеры:
 #	input.txt
+![image](https://github.com/user-attachments/assets/c4fa405c-6a8c-498b-a226-6710e5cf7eea)
 ...r....
 .pk.....
 ...pP...
@@ -36,6 +37,7 @@ C5 D7
 
 
 #	input.txt
+![image](https://github.com/user-attachments/assets/d2e6a59b-c73b-4216-9df9-e5fa4dde93b9)
 ....K.R.
 .Pp..P.P
 ....Bb..
